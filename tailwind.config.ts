@@ -16,6 +16,7 @@ export default {
         primary: 'hsl(var(--primary))',
         secondary: 'hsl(var(--secondary))',
 				tertiary: 'hsl(var(--tertiary))',
+        quartary: 'hsl(var(--quartary))',
 
         // For border and input colors
         border: 'hsl(var(--border))',
