@@ -7,10 +7,10 @@ function Home() {
       <main className="flex flex-col justify-center items-center row-start-2 gap-8 text-center">
         {/* Text */}
         <div>
-          <h1 className="text-3xl md:text-5xl font-bold text-secondary mb-4">
+          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-secondary mb-4">
             Join me on my journey
           </h1>
-          <p className="text-md md:text-lg text-tertiary max-w-3xl mx-auto">
+          <p className="text-md sm:text-lg text-tertiary max-w-3xl mx-auto">
             I built this website to give you an inside look at my journey,
             keep you updated on my cause, help you get to know me better, and
             offer a space for us to connect.
