@@ -33,8 +33,8 @@ function GetInTouch() {
           <div className="relative">
             <Image
               src="/instagram-logo-light.svg"
-              width={250}
-              height={250}
+              width={290}
+              height={290}
               alt="Picture of the author"
               className="transition-transform duration-300 ease-in-out transform group-hover:scale-105"
             />
