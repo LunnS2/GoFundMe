@@ -1,0 +1,22 @@
+[
+  {
+    "title": "This Week's Update",
+    "text": "Here’s the content of the update...",
+    "image": "/instagram-logo-half.svg"
+  },
+  {
+    "title": "Next Week's Update",
+    "text": "This is another update...",
+    "image": null
+  },
+  {
+    "title": "Next Week's Update",
+    "text": "This is another update...",
+    "image": "/lolipop.jpg"
+  },
+  {
+    "title": "Next Week's Update",
+    "text": "This is another update...",
+    "image": "/buddha.jpg"
+  }
+]

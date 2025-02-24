@@ -12,7 +12,15 @@ function GetInTouch() {
             Get in touch
           </h1>
           <p className="text-md sm:text-lg text-tertiary max-w-3xl mx-auto">
-          You can reach out to me on Instagram by clicking the image below and help share my story by checking out my post. If you prefer an alternative way to connect, feel free to email me at <a href="mailto:my.go.fund.family@gmail.com" className="text-primary underline">my.go.fund.family@gmail.com</a>
+            You can reach out to me on Instagram by clicking the image below and
+            help share my story by checking out my post. If you prefer an
+            alternative way to connect, feel free to email me at{" "}
+            <a
+              href="mailto:my.go.fund.family@gmail.com"
+              className="text-primary underline"
+            >
+              my.go.fund.family@gmail.com
+            </a>
           </p>
         </div>
         {/* Image */}
