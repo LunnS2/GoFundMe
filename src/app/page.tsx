@@ -38,6 +38,11 @@ export default function Home() {
             </span>
           </div>
         </Link>
+
+        {/* Mobile Message */}
+        <p className="text-sm text-tertiary max-w-xs text-center block lg:hidden">
+          Tap the image to visit my GoFundMe
+        </p>
       </main>
     </div>
   );
