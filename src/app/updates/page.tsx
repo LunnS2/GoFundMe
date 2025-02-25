@@ -54,7 +54,7 @@ const Updates: React.FC = () => {
               Weekly updates
             </h1>
             <p className="text-md sm:text-lg text-tertiary max-w-3xl mx-auto">
-              Every week, I'll be updating you about my journey. Stay tuned for
+              Every week, I&apos;ll be updating you about my journey. Stay tuned for
               exciting news, new challenges, and key milestones along the way!
             </p>
           </div>
