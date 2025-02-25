@@ -17,14 +17,10 @@ export default function WhoIAm() {
             singing, listening to music, cooking, baking, watching anime and
             series, programming, enjoying nature, and focusing on
             self-development. I also love connecting with people and building
-            meaningful relationships. Since I can&apos;t share my name or
-            picture, I want to show you who I am in other ways. Through
-            pictures, audio, and other media, I&apos;ll share bits of my
-            world—my passions, dreams, and the things that matter to me. As a
-            hobby, I produce, compose, and write music and lyrics. Although my
-            music isn&apos;t out yet, I dream that one day, when I do publish
-            it, my words and melodies will reach others, make an impact, and
-            help people navigate life.
+            meaningful relationships. As a hobby, I produce, compose, and write
+            music and lyrics. Although my music isn&apos;t out yet, I dream that
+            one day, when I do publish it, my words and melodies will reach
+            others, make an impact, and help people navigate life.
           </p>
         </div>
         <div className="bg-card p-6 sm:p-8 rounded-2xl mx-auto w-full max-w-xl">
