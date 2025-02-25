@@ -2,7 +2,7 @@ import Link from "next/link";
 import React from "react";
 import Image from "next/image";
 
-function GetInTouch() {
+export default function GetInTouch() {
   return (
     <section className="bg-background grid grid-rows-[auto_1fr_auto] min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
       <div className="flex flex-col justify-center items-center row-start-2 gap-8 text-center">
@@ -48,5 +48,3 @@ function GetInTouch() {
     </section>
   );
 }
-
-export default GetInTouch;

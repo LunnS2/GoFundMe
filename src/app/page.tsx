@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-function Home() {
+export default function Home() {
   return (
     <div className="bg-background grid grid-rows-[auto_1fr_auto] min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col justify-center items-center row-start-2 gap-8 text-center">
@@ -42,5 +42,3 @@ function Home() {
     </div>
   );
 }
-
-export default Home;
