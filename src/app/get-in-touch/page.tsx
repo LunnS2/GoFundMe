@@ -25,7 +25,7 @@ export default function GetInTouch() {
         </div>
         {/* Image */}
         <Link
-          href="http://google.com"
+          href="https://www.instagram.com/be_part_of_my_story?igsh=MTBiY2Z3ZnU5ZW01Mw=="
           target="_blank"
           rel="noopener noreferrer"
           className="group relative inline-block"
