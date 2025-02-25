@@ -19,7 +19,7 @@ export default function Home() {
 
         {/* Image */}
         <Link
-          href="http://google.com"
+          href="https://gofund.me/34a57ae8"
           target="_blank"
           rel="noopener noreferrer"
           className="group relative inline-block"
