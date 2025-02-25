@@ -17,11 +17,11 @@ function WhoIAm() {
             singing, listening to music, cooking, baking, watching anime and
             series, programming, enjoying nature, and focusing on
             self-development. I also love connecting with people and building
-            meaningful relationships. Since I can’t share my name or picture, I
+            meaningful relationships. Since I can't share my name or picture, I
             want to show you who I am in other ways. Through pictures, audio,
-            and other media, I’ll share bits of my world—my passions, dreams,
+            and other media, I'll share bits of my world—my passions, dreams,
             and the things that matter to me. As a hobby, I produce, compose,
-            and write music and lyrics. Although my music isn’t out yet, I dream
+            and write music and lyrics. Although my music isn't out yet, I dream
             that one day, when I do publish it, my words and melodies will reach
             others, make an impact, and help people navigate life.
           </p>
@@ -31,8 +31,8 @@ function WhoIAm() {
             Purpose of this section
           </h2>
           <p className="text-md sm:text-lg text-tertiary text-center">
-            Since I can’t share my name or picture, I want to show you who I am
-            in other ways. Through pictures, audio, and other media, I’ll share
+            Since I can't share my name or picture, I want to show you who I am
+            in other ways. Through pictures, audio, and other media, I'll share
             bits of my world—my passions, dreams, and the things that matter to
             me.
           </p>
