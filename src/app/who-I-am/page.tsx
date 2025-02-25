@@ -11,19 +11,19 @@ function WhoIAm() {
           </h1>
           <p className="text-md sm:text-lg text-tertiary max-w-3xl mx-auto">
             I'm a web developer from Portugal, looking forward to starting my
-            career in this field. Alongside that, I have a deep passion for music. Learning is
-            a lifelong journey for me, whether through formal education or
-            self-study. In my free time, I enjoy playing guitar, singing,
-            listening to music, cooking, baking, watching anime and series,
-            programming, enjoying nature, and focusing on self-development. I
-            also love connecting with people and building meaningful
-            relationships. Since I can’t share my name or picture, I want to
-            show you who I am in other ways. Through pictures, audio, and other
-            media, I’ll share bits of my world—my passions, dreams, and the
-            things that matter to me. As a hobby, I produce, compose, and write
-            music and lyrics. Although my music isn’t out yet, I dream that one
-            day, when I do publish it, my words and melodies will reach others,
-            make an impact, and help people navigate life.
+            career in this field. Alongside that, I have a deep passion for
+            music. Learning is a lifelong journey for me, whether through formal
+            education or self-study. In my free time, I enjoy playing guitar,
+            singing, listening to music, cooking, baking, watching anime and
+            series, programming, enjoying nature, and focusing on
+            self-development. I also love connecting with people and building
+            meaningful relationships. Since I can’t share my name or picture, I
+            want to show you who I am in other ways. Through pictures, audio,
+            and other media, I’ll share bits of my world—my passions, dreams,
+            and the things that matter to me. As a hobby, I produce, compose,
+            and write music and lyrics. Although my music isn’t out yet, I dream
+            that one day, when I do publish it, my words and melodies will reach
+            others, make an impact, and help people navigate life.
           </p>
         </div>
         <div className="bg-card p-6 sm:p-8 rounded-2xl mx-auto w-full max-w-xl">

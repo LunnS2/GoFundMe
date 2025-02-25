@@ -17,7 +17,11 @@ function NavBar() {
           onClick={() => setIsOpen(!isOpen)}
           className="lg:hidden text-secondary focus:outline-none transition-colors duration-300"
         >
-          {isOpen ? <X className="w-6 h-6" /> : <MenuIcon className="w-6 h-6" />}
+          {isOpen ? (
+            <X className="w-6 h-6" />
+          ) : (
+            <MenuIcon className="w-6 h-6" />
+          )}
         </button>
 
         {/* Centered Links for Large Screens */}
@@ -36,7 +40,7 @@ function NavBar() {
               key={link.href}
               href={link.href}
               className={`hover:text-black ${
-                pathname === link.href ? "text-black font-semibold"  : ""
+                pathname === link.href ? "text-black font-semibold" : ""
               }`}
             >
               {link.label}
