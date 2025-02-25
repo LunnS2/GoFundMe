@@ -33,7 +33,7 @@ function NavBar() {
           {[
             { href: "/", label: "Welcome" },
             { href: "/updates", label: "Updates" },
-            { href: "/who-i-am", label: "Who I Am" },
+            { href: "/about-me", label: "Who I Am" },
             { href: "/get-in-touch", label: "Get In Touch" },
           ].map((link) => (
             <Link
