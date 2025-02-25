@@ -1,8 +1,8 @@
-"use client"; // ✅ Ensures interactivity
+"use client";
 
 import React from "react";
 import Image from "next/image";
-import { ArrowUp, ArrowDown } from "lucide-react"; // Import icons
+import { ArrowUp, ArrowDown } from "lucide-react";
 import updatesData from "../../data/updates.json";
 
 interface Update {
