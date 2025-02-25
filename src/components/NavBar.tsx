@@ -42,6 +42,7 @@ function NavBar() {
               className={`hover:text-black ${
                 pathname === link.href ? "text-black font-semibold" : ""
               }`}
+              onClick={() => setIsOpen(false)}
             >
               {link.label}
             </Link>
