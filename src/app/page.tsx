@@ -13,7 +13,8 @@ export default function Home() {
           <p className="text-md sm:text-lg text-tertiary max-w-3xl mx-auto">
             I built this website to give you an inside look at my journey, keep
             you updated on my cause, help you get to know me better, and offer a
-            space for us to connect.
+            space for us to connect.If you&apos;d like to learn about my cause,
+            visit my GoFundMe by tapping the image below.
           </p>
         </div>
 
