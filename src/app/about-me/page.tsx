@@ -10,17 +10,14 @@ export default function WhoIAm() {
             Who I am
           </h1>
           <p className="text-md sm:text-lg text-tertiary max-w-3xl mx-auto">
-            I&apos;m a web developer from Portugal, looking forward to starting
-            my career in this field. Alongside that, I have a deep passion for
-            music. Learning is a lifelong journey for me, whether through formal
-            education or self-study. In my free time, I enjoy playing guitar,
-            singing, listening to music, cooking, baking, watching anime and
-            series, programming, enjoying nature, and focusing on
-            self-development. I also love connecting with people and building
-            meaningful relationships. As a hobby, I produce, compose, and write
-            music and lyrics. Although my music isn&apos;t out yet, I dream that
-            one day, when I do publish it, my words and melodies will reach
-            others, make an impact, and help people navigate life.
+            I&apos;m a young adult from Portugal. I have a deep passion for
+            music, and learning is a lifelong journey for me. I have a huge
+            number of hobbies, and I&apos;m strongly into self-development. I
+            also love connecting with people and building meaningful
+            relationships. I produce, compose, and write music and lyrics.
+            Although my music isn&apos;t out yet, I dream that one day, when I
+            do publish it, my words and melodies will reach others, make an
+            impact, and help people navigate life.
           </p>
         </div>
         <div className="bg-card p-6 sm:p-8 rounded-2xl mx-auto w-full max-w-xl">
@@ -28,10 +25,9 @@ export default function WhoIAm() {
             Purpose of this section
           </h2>
           <p className="text-md sm:text-lg text-tertiary text-center">
-            Since I can&apos;t share my name or picture, I want to show you who
-            I am in other ways. Through pictures, audio, and other media,
-            I&apos;ll share bits of my world—my passions, dreams, and the things
-            that matter to me.
+            I want to show you who I am in other ways. Through pictures, audio,
+            and other media, I&apos;ll share bits of my world—my passions,
+            dreams, and the things that matter to me.
           </p>
         </div>
       </div>

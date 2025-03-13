@@ -11,7 +11,7 @@ export default function Home() {
             Join me on my journey
           </h1>
           <p className="text-md sm:text-lg text-tertiary max-w-3xl mx-auto">
-            I built this website to give you an inside look at my journey, keep
+            This website was built to give you an inside look at my journey, keep
             you updated on my cause, help you get to know me better, and offer a
             space for us to connect.If you&apos;d like to learn about my cause,
             visit my GoFundMe by tapping the image below.
@@ -20,9 +20,7 @@ export default function Home() {
 
         {/* Image */}
         <Link
-          href="https://gofund.me/34a57ae8"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="/finish-line"
           className="group relative inline-block"
         >
           <div className="relative">

@@ -16,7 +16,7 @@ export default function GetInTouch() {
             help share my story by checking out my post. If you prefer an
             alternative way to connect, feel free to email me at{" "}
             <a
-              href="mailto:my.go.fund.family@gmail.com"
+              href="/finish-line"
               className="text-primary underline"
             >
               my.go.fund.family@gmail.com
@@ -25,9 +25,7 @@ export default function GetInTouch() {
         </div>
         {/* Image */}
         <Link
-          href="https://www.instagram.com/be_part_of_my_story?igsh=MTBiY2Z3ZnU5ZW01Mw=="
-          target="_blank"
-          rel="noopener noreferrer"
+          href="/finish-line"
           className="group relative inline-block"
         >
           <div className="relative">
