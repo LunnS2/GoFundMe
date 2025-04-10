@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export default function GetInTouch() {
   return (
-    <section className="bg-background grid grid-rows-[auto_1fr_auto] min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
+    <section className="bg-background grid grid-rows-[auto_1fr_auto] min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)] fade-in">
       <div className="flex flex-col justify-center items-center row-start-2 gap-8 text-center">
         {/* Text */}
         <div>

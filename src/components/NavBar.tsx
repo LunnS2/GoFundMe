@@ -10,7 +10,7 @@ function NavBar() {
   const pathname = usePathname(); // Get current path
 
   return (
-    <nav className="bg-quartary text-secondary p-2 fixed w-full top-0 left-0 z-50">
+    <nav className="bg-quartary text-secondary p-2 fixed w-full top-0 left-0 z-50 fade-in">
       <div className="mx-auto flex justify-between items-center px-4 lg:px-8">
         {/* Hamburger Icon for Mobile */}
         <button
