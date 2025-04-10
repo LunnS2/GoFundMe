@@ -14,7 +14,7 @@ function NavBar() {
       w-full md:max-w-6xl md:w-[calc(100%-2rem)] md:left-1/2 md:-translate-x-1/2 mt-4">
       <div className="mx-auto px-4 lg:px-8">
         <div className="flex justify-between items-center h-12">
-          {/* Mobile Menu Button - Centered on small screens */}
+          {/* Mobile Menu Button */}
           <div className="lg:hidden w-full flex justify-center">
             <button
               onClick={() => setIsOpen(!isOpen)}

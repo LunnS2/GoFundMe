@@ -27,7 +27,7 @@ const Updates: React.FC = () => {
     <section className="bg-background grid grid-rows-[auto_1fr_auto] min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)] fade-in">
       <div className="flex flex-col justify-center items-center row-start-2 gap-8 text-center">
         {/* Floating Navigation Buttons */}
-        <div className="fixed right-6 bottom-6 sm:top-1/2 sm:transform sm:-translate-y-1/2 flex flex-col sm:gap-4 gap-2">
+        <div className="fixed right-6 bottom-6 flex flex-col gap-2 sm:gap-4 sm:right-6 sm:top-0 sm:h-screen sm:justify-center">
           {/* Go to Latest Updates (Top) */}
           <button
             onClick={scrollToTop}
@@ -46,7 +46,6 @@ const Updates: React.FC = () => {
             <span className="text-xs mt-1">Oldest</span>
           </button>
         </div>
-
         <div className="flex flex-col justify-center items-center text-center w-full max-w-3xl">
           {/* Header */}
           <div>
